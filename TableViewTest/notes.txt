@@ -1,0 +1,4 @@
+QTableView:
+- maksymalna ilość komórek 67,000,000 rows x 1 cols, co daje 528,5 MB w pamięci.
+- czemu tylko tyle pamięci da się zaalokować ???
+- udalo sie zaalokowac 10,000,000 wierszy x 15 kolumn co daje 1161,6 MB w pamięci. Działa tylko za pierwszym razem - przy drugiej próbie się wysypuje.
